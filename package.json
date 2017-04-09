@@ -1,7 +1,7 @@
 {
   "name": "react-and-bootstrap",
   "version": "1.0.0",
-  "description": "how to build static web site using bootstrap",
+  "description": "An example of how to build static website using bootstrap",
   "scripts": {
     "build": "webpack -p --display-error-details --color"
   },
